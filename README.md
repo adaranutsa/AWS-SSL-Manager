@@ -18,13 +18,15 @@
 
 #### Known Supported platforms
 * ##### *UNIX
-    * Clone or down this repository to your local machine
+    * Clone or [download this repository](https://github.com/adaranutsa/AWS-SSL-Manager/raw/master/aws-ssl-manager.tar.gz) to your local machine
+    * Extract the contents if you downloaded the tar file
+        * `tar -zxvf aws-ssl-manager.tar.gz`
     * Build and install the package. This will resolve any dependencies that are needed.
         * `sudo python setup.py install` - Build and install the package
     * Run the program from commandline using the following command from anywhere on your machine
         * `awssslmanager` - This will launch AWS SSL Manager
 * ##### Windows
-    * Download the `.exe` file
+    * [Download the `.exe` file](https://github.com/adaranutsa/AWS-SSL-Manager/raw/master/AWS-SSL-Manager.exe)
     * Run `.exe` file
 
 
