@@ -1,0 +1,3 @@
+import awssslmanager
+
+awssslmanager.main()
